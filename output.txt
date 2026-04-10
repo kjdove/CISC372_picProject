@@ -1,0 +1,9 @@
+Script started on Fri Apr 10 08:24:22 2026
+[kjdove@r1n01 CISC372_picProject]$ ./imageP pic2.jpg blur
+Took 6 seconds
+[kjdove@r1n01 CISC372_picProject]$ ./imageOMP pic2.jpg blur
+took 6.4435 seconds
+[kjdove@r1n01 CISC372_picProject]$ exit
+exit
+
+Script done on Fri Apr 10 08:24:59 2026
