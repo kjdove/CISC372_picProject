@@ -117,6 +117,6 @@ int main(int argc,char** argv){
     
     free(destImage.data);
     end = omp_get_wtime();
-    printf("took %.4f seconds/n", (end - start));
+    printf("took %.4f seconds\n", (end - start));
    return 0;
 }
